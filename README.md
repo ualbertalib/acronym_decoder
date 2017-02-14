@@ -12,6 +12,7 @@ A Rosetta stone for (U of A) library-related acronyms and jargon
 |OAI|Open Archives Initiative|https://www.openarchives.org/|
 |OAI-ORE|Open Archives Initiative, Object Exchange and Reuse|https://www.openarchives.org/ore/|
 |OAI-PMH|Open Archives Initiative, Protocol for Metadata Harvesting|https://www.openarchives.org/pmh/|
+|PCDM|Portland Common Data Model|https://github.com/duraspace/pcdm/wiki|
 |RDM|Research Data Management|
 
 ### Specific to the University of Alberta
