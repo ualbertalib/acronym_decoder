@@ -7,7 +7,7 @@ A Rosetta stone for (U of A) library-related acronyms and jargon
 
 |Acronym|Meaning|Further Reading|
 |-------|-------|---------------|
-|IIIF|International Image Interoperability Framework|https://iiif.io|
+|IIIF|International Image Interoperability Framework|http://iiif.io|
 |IR|Institutional Repository|
 |LAC|Library and Archives Canada|http://www.bac-lac.gc.ca/eng/Pages/home.aspx|
 |OAI|Open Archives Initiative|https://www.openarchives.org/|
