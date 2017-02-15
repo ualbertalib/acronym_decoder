@@ -7,12 +7,15 @@ A Rosetta stone for (U of A) library-related acronyms and jargon
 
 |Acronym|Meaning|Further Reading|
 |-------|-------|---------------|
+|GLAM|Galleries, libraries, archives and museums||
 |IIIF|International Image Interoperability Framework|http://iiif.io|
 |IR|Institutional Repository|
 |LAC|Library and Archives Canada|http://www.bac-lac.gc.ca/eng/Pages/home.aspx|
+|LAM|Libraries, archives and museums; used as a name for this sector (sometimes also called "memory institutions")||
 |OAI|Open Archives Initiative|https://www.openarchives.org/|
 |OAI-ORE|Open Archives Initiative, Object Exchange and Reuse|https://www.openarchives.org/ore/|
 |OAI-PMH|Open Archives Initiative, Protocol for Metadata Harvesting|https://www.openarchives.org/pmh/|
+|OER|Open educational resource (e.g. a textbook developed like an open-source project and shared under a CC license)||
 |PCDM|Portland Common Data Model|https://github.com/duraspace/pcdm/wiki|
 |RDM|Research Data Management|
 
@@ -31,3 +34,18 @@ A Rosetta stone for (U of A) library-related acronyms and jargon
 |Phrase|Meaning|Further Reading|
 |------|-------|---------------|
 |Radioactive objects|From Peter B.: "It goes back to a Z39.50 project at U of North Texas a decade ago, when we were all trying to get federated search working across everyone's catalogues. The idea was we'd all ingest these records that populated every possible field with predictable unique values, so that you could see whose catalogues retrieved what in response to a query. The metaphor was from radioactive traces on medicine injections. We revived the idea to help with the triplestore testing."|https://digital.library.unt.edu/ark:/67531/metadc111002/m1/2/|
+
+## Conferences
+
+|Name|Description|Further Reading|
+|----|-----------|---------------|
+|LDCX|annual unconference at Stanford; lots of Hydra partners attend and much Hydra work is done there|http://library.stanford.edu/projects/ldcx|
+|Access|Canadian library technology conference, held every fall|http://accessconference.ca/|
+|HydraConnect|Main Hydra meeting, held annually in the fall|https://wiki.duraspace.org/display/hydra/Hydra+Connect+Meetings|
+|Open Repositories|||
+|CNI|||
+|JCDL|||
+|IIIF Conference|Annual||
+|LODLAM|Occasional series of conferences: Linked Open Data for Libraries, Archives and Museums||
+
+
