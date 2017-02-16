@@ -7,11 +7,15 @@ A Rosetta stone for (U of A) library-related acronyms and jargon
 
 |Acronym|Meaning|Further Reading|
 |-------|-------|---------------|
+|AIC|Archival Information Collection|https://wiki.archivematica.org/Archival_Information_Collection_(AIC)|
+|AIP|Archival Information Package|https://wiki.archivematica.org/Archival_Information_Package_(AIP)|
+|FITS|File Information Tool Set|http://projects.iq.harvard.edu/fits|
 |GLAM|Galleries, libraries, archives and museums||
 |IIIF|International Image Interoperability Framework|http://iiif.io|
 |IR|Institutional Repository|
 |LAC|Library and Archives Canada|http://www.bac-lac.gc.ca/eng/Pages/home.aspx|
 |LAM|Libraries, archives and museums; used as a name for this sector (sometimes also called "memory institutions")||
+|METS|Metadata Encoding and Transmission Standard|http://www.loc.gov/standards/mets/|
 |OAI|Open Archives Initiative|https://www.openarchives.org/|
 |OAI-ORE|Open Archives Initiative, Object Exchange and Reuse|https://www.openarchives.org/ore/|
 |OAI-PMH|Open Archives Initiative, Protocol for Metadata Harvesting|https://www.openarchives.org/pmh/|
