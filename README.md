@@ -27,6 +27,7 @@ A Rosetta stone for (U of A) library-related acronyms and jargon
 
 |Acronym|Meaning|Further Reading|
 |-------|-------|---------------|
+|AUL|Associate University Librarian|
 |BARD|Book and Record Depository|
 |DI|Digital Initiatives|
 |DIT|Digital Initiatives Team (?)|
