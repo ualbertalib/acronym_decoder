@@ -9,17 +9,21 @@ A Rosetta stone for (U of A) library-related acronyms and jargon
 |-------|-------|---------------|
 |AIC|Archival Information Collection|https://wiki.archivematica.org/Archival_Information_Collection_(AIC)|
 |AIP|Archival Information Package|https://wiki.archivematica.org/Archival_Information_Package_(AIP)|
+|DPLA|Digital Public Library of America|https://dp.la/|
 |FITS|File Information Tool Set|http://projects.iq.harvard.edu/fits|
 |GLAM|Galleries, libraries, archives and museums||
 |IIIF|International Image Interoperability Framework|http://iiif.io|
+|IMLS|Institute of Museum and Library Services|https://www.imls.gov/|
 |IR|Institutional Repository|
 |LAC|Library and Archives Canada|http://www.bac-lac.gc.ca/eng/Pages/home.aspx|
 |LAM|Libraries, archives and museums; used as a name for this sector (sometimes also called "memory institutions")||
+|LCSH|Library of Congress Subject Headings|http://id.loc.gov/authorities/subjects.html|
 |METS|Metadata Encoding and Transmission Standard|http://www.loc.gov/standards/mets/|
 |OAI|Open Archives Initiative|https://www.openarchives.org/|
 |OAI-ORE|Open Archives Initiative, Object Exchange and Reuse|https://www.openarchives.org/ore/|
 |OAI-PMH|Open Archives Initiative, Protocol for Metadata Harvesting|https://www.openarchives.org/pmh/|
 |OER|Open educational resource (e.g. a textbook developed like an open-source project and shared under a CC license)||
+|PBCore|Public Broadcasting Metadata Dictionary|http://pbcore.org/|
 |PCDM|Portland Common Data Model|https://github.com/duraspace/pcdm/wiki|
 |RDM|Research Data Management|
 
