@@ -17,6 +17,7 @@ A Rosetta stone for (U of A) library-related acronyms and jargon
 |IR|Institutional Repository|
 |LAC|Library and Archives Canada|http://www.bac-lac.gc.ca/eng/Pages/home.aspx|
 |LAM|Libraries, archives and museums; used as a name for this sector (sometimes also called "memory institutions")||
+|LCNAF|Library of Congress Name Authority File|http://id.loc.gov/authorities/names.html|
 |LCSH|Library of Congress Subject Headings|http://id.loc.gov/authorities/subjects.html|
 |METS|Metadata Encoding and Transmission Standard|http://www.loc.gov/standards/mets/|
 |OAI|Open Archives Initiative|https://www.openarchives.org/|
