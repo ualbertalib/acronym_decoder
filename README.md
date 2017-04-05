@@ -38,6 +38,7 @@ A Rosetta stone for (U of A) library-related acronyms and jargon
 |DIT|Digital Initiatives Team (?)|
 |ESQ|Enterprise Square|
 |FGSR|Faculty of Graduate Studies and Research|
+|PA|Performance Appraisal|
 
 ## Jargon
 
