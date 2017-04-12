@@ -35,6 +35,8 @@ A Rosetta stone for (U of A) library-related acronyms and jargon
 |AUL|Associate University Librarian|
 |BARD|Book and Record Depository|
 |DI|Digital Initiatives|
+|DIAL|Digital Initiatives Area Leads|
+|DIAL|Digital Initiatives Applications Librarian (a.k.a. Weiwei)|
 |DIT|Digital Initiatives Team (?)|
 |ESQ|Enterprise Square|
 |FGSR|Faculty of Graduate Studies and Research|
