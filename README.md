@@ -35,12 +35,19 @@ A Rosetta stone for (U of A) library-related acronyms and jargon
 |AUL|Associate University Librarian|
 |BARD|Book and Record Depository|
 |DI|Digital Initiatives|
-|DIAL|Digital Initiatives Area Leads|
-|DIAL|Digital Initiatives Applications Librarian (a.k.a. Weiwei)|
 |DIT|Digital Initiatives Team (?)|
-|ESQ|Enterprise Square|
+|ECHA|Edmonton Clinic Health Academy Data Centre|
+|ESQ|Enterprise Square Data Centre|
 |FGSR|Faculty of Graduate Studies and Research|
+|GSB|General Services Building Data Centre|
 |PA|Performance Appraisal|
+|UL|University Librarian|
+
+### Specific to Digital Preservation
+
+|Acronym|Meaning|Further Reading|
+|-------|-------|---------------|
+|LOCKSS|Lots of Copies Keep Stuff Safe|
 
 ## Jargon
 
