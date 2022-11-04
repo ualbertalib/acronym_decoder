@@ -47,7 +47,9 @@ A Rosetta stone for (U of A) library-related acronyms and jargon
 
 |Acronym|Meaning|Further Reading|
 |-------|-------|---------------|
-|LOCKSS|Lots of Copies Keep Stuff Safe|
+|LOCKSS|Lots of Copies Keep Stuff Safe|https://www.lockss.org/|
+|CLOCKSS|Controlled LOCKSS|https://clockss.org/|
+|Canadiana|Canadiana collection contains over 19 million pages (96,000 titles) of digitized historical publications|https://www.crkn-rcdr.ca/en/canadiana-collections|
 
 ## Jargon
 
